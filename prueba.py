@@ -1,2 +1,3 @@
 def x():
-    a=x
+    a = 1
+    print(a)
