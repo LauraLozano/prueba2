@@ -1,2 +1,5 @@
 [tools]
 linters = flake8, eslint
+
+[tool_eslint]
+config = /app/eslint.json
